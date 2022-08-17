@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  font-size: 6px;
+}
+.menu{
+  display: flex;
+  justify-content: space-between;
+}
+.menu-items{
+  display: flex;
+  justify-content:space-around;
+}
+
+.topp{
+  background-color: red;
+  color: white;
+
+  height: 30vh;
+}
+.p1{
+  padding: 2px;
+}
+.p2{
+  padding: 4px;
+}
+.p3{
+  padding: 8px;
+}
